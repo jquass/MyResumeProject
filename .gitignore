@@ -1,0 +1,5 @@
+my-resume.yml
+target
+.idea/*
+!.idea/runConfigurations/
+**/config.properties
